@@ -1,10 +1,11 @@
 <!-- 
-  Before submitting this PR, ask yourself the following: 
-    - Do all your tests pass and build successfully?
-    - Did you add test cases for any new logic?
+  Before submitting this PR, ensure the following requirements are met:
+    - Tests are written for any changes that have been made to the service. (Bug fixes and feature work)
+    - Docs have been reviewed and updated as needed.
+    - Ensure `./gradlew clean build` passes.
 -->
 
-### Short description of the work completed
+### Short description of the work completed:
 
 >
 
