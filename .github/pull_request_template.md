@@ -5,7 +5,7 @@
     - Ensure `./gradlew clean build` passes.
 -->
 
-### Short description of the work completed:
+### Description of work completed:
 
 >
 
